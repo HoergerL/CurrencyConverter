@@ -1,6 +1,6 @@
 # Currency Converter
 
-#### created in April 2019
+#### Created in April 2019
 
 The Currency Converter converts the currencies
 * Euro
@@ -12,7 +12,7 @@ into each other by using a fixed exchange rate.
 
 <p> &nbsp </p>
 
-## how it works
+## How it works
 
 In the MainActivity you see the two latest used currencies symbolized by their country's flags an with the currency name as a hint in the EditText, where you can type the number you want to convert. If you type a number, which is too small or too big it shows a warning.
 
@@ -21,19 +21,19 @@ Additionally there is a ColorPickerActivity where you can choose the text and th
 
 <p> &nbsp </p>
 
-## a few impressions
+## A few impressions
 
 ### MainActivity:
-![MainActivity](/ScreenshotsCurrencyConverter/MainActivity.png "MainActivity")
+<img src="/ScreenshotsCurrencyConverter/MainActivity.png" height="400">
 
 <p> &nbsp </p>
 <p> &nbsp </p>
 
 ### CurrencySelection:
-![CurrencySelection](/ScreenshotsCurrencyConverter/CurrencySelection.png "CurrencySelection")
+<img src="/ScreenshotsCurrencyConverter/CurrencySelection.png" height="400">
 
 <p> &nbsp </p>
 <p> &nbsp </p>
 
 ### ColorPickerActivity:
-![ColorPickerActivity](/ScreenshotsCurrencyConverter/ColorPickerActivity.png "ColorPickerActivity")
+<img src="/ScreenshotsCurrencyConverter/ColorPickerActivity.png" height="400">
