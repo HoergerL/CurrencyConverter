@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="euro">Euro</string>
+    <string name="singapore_flag">Flag of Singapore</string>
+    <string name="flag_of_a_country">flag of a country</string>
+    <string name="swap_icon">swap icon</string>
+    <string name="flag_at_the_right_side">flag at the right side</string>
+    <string name="settings">settings</string>
+</resources>
